@@ -1,11 +1,18 @@
 # transactions-services
 
+📚 Getting Started
+
 ## maven
 
 ```bash
 
 mvn spotless:apply
 ```
+
+🤝 Contribution
+
+![Alt](https://repobeats.axiom.co/api/embed/8897fd43477dc415ecf1badc195245524eb04eab.svg "Repobeats analytics image")
+
 [![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-light.svg)](https://sonarcloud.io/summary/new_code?id=rock-hu_transactions-services)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=rock-hu_transactions-services&metric=bugs)](https://sonarcloud.io/summary/new_code?id=rock-hu_transactions-services)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=rock-hu_transactions-services&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=rock-hu_transactions-services)
