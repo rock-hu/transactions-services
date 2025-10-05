@@ -152,5 +152,4 @@ paths:
                 $ref: "#/components/schemas/OBReadTransaction6"
 components:
   schemas:
-    OBReadTransaction6:
-      type: object
+    OBReadTransaction6: {}
